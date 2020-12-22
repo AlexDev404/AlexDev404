@@ -15,7 +15,7 @@ among others
 
 ## What I'm Doing Now.. .
 
-- Fixing syntax errors
+- Fixing syntax errors in Extendify
 - Destroying myself trying to develop drivers for XeonOS (anyone reading this who knows how to build drivers **please** help me [AlexDev404/Xeno](https://github.com/AlexDev404/Xeno)
 
 
