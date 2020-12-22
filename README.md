@@ -13,6 +13,12 @@ I usually develop websites in my spare time for fun and work along with language
 - Blockly 🧱 (just for the fun of it) 
 among others
 
+## What I'm Doing Now.. .
+
+- Fixing syntax errors
+- Destroying myself trying to develop drivers for XeonOS (anyone reading this who knows how to build drivers **please** help me [AlexDev404/Xeno](https://github.com/AlexDev404/Xeno)
+
+
 I mostly enjoy working in C and web languages like HTML5 and CSS; although other languages are just as fine. <br>
 I'm a fast learner and can learn pretty much anything if I try. <br>
 I like hacking stuff and am currently working on my skills involving that. <br>
