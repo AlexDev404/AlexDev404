@@ -1,4 +1,4 @@
-### Hi there Coderzz 👋
+### Yow Coderzz 👋
 
 I'm AlexDev404 also known online as Joe, Alex, Jeff, Manny56 among others (😅).
 I usually develop websites in my spare time for fun and work along with languages like:
