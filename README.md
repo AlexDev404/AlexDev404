@@ -16,7 +16,7 @@ among others
 ## What I'm Doing Now.. .
 
 - Fixing syntax errors in [Extendify](https://github.com/AlexDev404/Extendify)
-- Destroying myself trying to develop drivers for XeonOS (anyone reading this who knows how to build drivers **please** help me [AlexDev404/Xeno](https://github.com/AlexDev404/Xeno)
+- Destroying myself trying to develop drivers for XenoOS (anyone reading this who knows how to build drivers **please** help me [AlexDev404/Xeno](https://github.com/AlexDev404/Xeno)
 
 
 I mostly enjoy working in C and web languages like HTML5 and CSS; although other languages are just as fine. <br>
