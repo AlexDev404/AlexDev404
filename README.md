@@ -14,7 +14,7 @@ I usually develop websites in my spare time for fun and work along with language
 among others
 
 ## What I'm Doing Now.. .
-
+- Creating scripts for the Mega2560 in the Aruino IDE
 - Fixing syntax errors in [Extendify](https://github.com/AlexDev404/Extendify)
 - Destroying myself trying to develop drivers for XenoOS (anyone reading this who knows how to build drivers **please** help me [AlexDev404/Xeno](https://github.com/AlexDev404/Xeno)
 
