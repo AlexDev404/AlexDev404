@@ -22,7 +22,7 @@ among others
 I mostly enjoy working in C and web languages like HTML5 and CSS; although other languages are just as fine. <br>
 I'm a fast learner and can learn pretty much anything if I try. <br>
 I like hacking stuff and am currently working on my skills involving that. <br>
-I'm a backend/frontend developer, I do modding, Building websites from scratch (I hate web builders).
+I'm a backend/frontend developer, I do stuff like modding, building websites from scratch (I hate web builders), etc.
 
 <br>
 
