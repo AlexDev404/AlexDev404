@@ -26,8 +26,7 @@ I'm a backend/frontend developer, I do stuff like modding, building websites fro
 
 <br>
 
-I'm working on cracking Aurora and have already started by reverse engineering the launcher. Next I plan to get their server code but that will take some time to do and I'm not really looking forward to doing that just as yet. <br>
-I'm not currently looking for a job, as I don't feel like I'm ready for that yet. This here is just me sharpening up my skills for when I go into the real world and implement **`SyNBIOSis`**.
+I'm not currently looking for a job, as I don't feel like I'm ready for that yet, as I am perfectly sustained by my own business, Atomica. This here is just me sharpening up my skills for when I go into the real world and implement **`SyNBIOSis`**.
 <!--
 **AlexDev404/AlexDev404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
