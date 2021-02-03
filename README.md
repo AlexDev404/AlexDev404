@@ -17,7 +17,8 @@ among others
 - Creating scripts for the Mega2560 in the Arduino IDE
 - Fixing syntax errors in [Extendify](https://github.com/AlexDev404/Extendify)
 - Destroying myself trying to develop drivers for XenoOS (anyone reading this who knows how to build drivers **please** help me) [AlexDev404/Xeno](https://github.com/AlexDev404/Xeno)
-
+- Recreating the song Soy Yo in Sonic Pi
+- Learning [LOLCODE](https://github.com/justinmeza/lolcode-spec/blob/master/v1.2/lolcode-spec-v1.2.md)
 
 I mostly enjoy working in C and web languages like HTML5 and CSS; although other languages are just as fine. <br>
 I'm a fast learner and can learn pretty much anything if I try. <br>
