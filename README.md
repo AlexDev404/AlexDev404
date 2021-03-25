@@ -1,34 +1,28 @@
 ### Yow Coderzz 👋
 
-I'm AlexDev404 also known online as Joe, Alex, Jeff, Manny56 among others (😅).
+I'm AlexDev404 also known online as the Biggest Skid in the World.
 I usually develop websites in my spare time for fun and work along with languages like:
-- C
-- C++ 
-- JavaScript 🌐
-- HTML
-- CSS
-- ReactJS ⚛
-- Python 🐍
-- Batchfile 👨‍💻
-- Blockly 🧱 (just for the fun of it) 
-among others
+-Skidding
+-Skidding
+-Skidding
+-Skidding Again
+
 
 ## What I'm Doing Now.. .
-- Working on Blaze
-- Creating scripts for the Mega2560 in the Arduino IDE
+- Working on Skid
+- Creating Skidded Script for the Mega2560 in the Arduino IDE
 - Fixing syntax errors in [Extendify](https://github.com/AlexDev404/Extendify)
-- Destroying myself trying to develop drivers for XenoOS (anyone reading this who knows how to build drivers **please** help me) [AlexDev404/Xeno](https://github.com/AlexDev404/Xeno)
+- Destroying myself trying to develop skidded drivers for XenoOS (anyone reading this who knows how to build drivers **please** help me) [AlexDev404/Xeno](https://github.com/AlexDev404/Xeno)
 - Recreating the song Soy Yo in Sonic Pi
-- Learning [LOLCODE](https://github.com/justinmeza/lolcode-spec/blob/master/v1.2/lolcode-spec-v1.2.md)
+- Learning [LOLCODE](https://github.com/justinmeza/lolcode-spec/blob/master/v1.2/lolcode-spec-v1.2.md) to skid from it.
 
-I mostly enjoy working in C and web languages like HTML5 and CSS; although other languages are just as fine. <br>
-I'm a fast learner and can learn pretty much anything if I try. <br>
-I like hacking stuff and am currently working on my skills involving that. <br>
-I'm a backend/frontend developer, I do stuff like modding, building websites from scratch (I hate web builders), etc.
+I'm a fast Skidder and can Skid pretty much anything. <br>
+I like Skidding stuff and am currently working on my Skidding skills. <br>
+I'm a Skidder, I do stuff like Skidding from real dev (Neonite, Aurora, etc).
 
 <br>
 
-I'm not currently looking for a job, as I don't feel like I'm ready for that yet, as I am perfectly sustained by my own business, Atomica. This here is just me sharpening up my skills for when I go into the real world and implement **`SyNBIOSis`**.
+I'm not currently looking for a job, as I don't feel like I'm ready for that yet, as I am perfectly sustained by my own business, Atomica. This here is just me sharpening up my Skid skills for when I go into the real world and implement **`SyNBIOSis`**.
 <!--
 **AlexDev404/AlexDev404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
