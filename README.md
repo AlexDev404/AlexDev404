@@ -1,4 +1,4 @@
-### Yow Coderzz 👋
+### Hey Guys 👋
 
 I'm AlexDev404 also known online as Joe, Alex, Jeff, Manny56 among others (😅).
 I usually develop websites in my spare time for fun and work along with languages like:
@@ -12,6 +12,11 @@ I usually develop websites in my spare time for fun and work along with language
 - Batchfile 👨‍💻
 - Blockly 🧱 (just for the fun of it) 
 among others
+
+## Stats
+
+[![AlexDev404's Github Stats](https://github-readme-stats.vercel.app/api?username=alexdev404&show_icons=true&theme=slateorange
+)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## What I'm Doing Now.. .
 - Working on Blaze
