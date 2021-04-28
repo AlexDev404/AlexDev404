@@ -13,7 +13,7 @@ I usually develop websites in my spare time for fun and work along with language
 - Blockly 🧱 (just for the fun of it) 
 among others
 
-## Stats
+## My Stats
 
 [![AlexDev404's Github Stats](https://github-readme-stats.vercel.app/api?username=alexdev404&show_icons=true&theme=slateorange
 )](https://github.com/anuraghazra/github-readme-stats) 
