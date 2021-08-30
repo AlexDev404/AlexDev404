@@ -1,17 +1,22 @@
-### Hey Guys 👋
+### Hello Everyone, I'm AlexDev404
 
-I'm AlexDev404 also known online as Joe, Alex, Jeff, Manny56 among others (😅).
-I usually develop websites in my spare time for fun and work along with languages like:
-- C
+<!--- I'm AlexDev404 also known online as Joe, Alex, Jeff, Manny56 among others (😅). -->
+
+I usually develop websites in my spare time for fun.
+I know and am comfortable using a wide variety of programming languages; most notably **C**.
+I now fluently know most of **JavaScript** due to [Blaze](https://trail-blaze.github.io).
+
+Other languages that I know well include:
+<!-- - C-->
 - C++ 
-- JavaScript 🌐
+<!-- - JavaScript 🌐-->
 - HTML
 - CSS
 - ReactJS ⚛
 - Python 🐍
 - Batchfile 👨‍💻
-- Blockly 🧱 (just for the fun of it) 
-among others
+- Arduino C
+<!-- - Blockly 🧱-->
 
 ## My Stats
 
@@ -26,10 +31,11 @@ among others
 - Recreating the song Soy Yo in Sonic Pi
 - Learning [LOLCODE](https://github.com/justinmeza/lolcode-spec/blob/master/v1.2/lolcode-spec-v1.2.md)
 
+<!--
 I mostly enjoy working in C and web languages like HTML5 and CSS; although other languages are just as fine. <br>
 I'm a fast learner and can learn pretty much anything if I try. <br>
-I like hacking stuff and am currently working on my skills involving that. <br>
-I'm a backend/frontend developer, I do stuff like modding, building websites from scratch (I hate web builders), etc.
+I like hacking stuff and am currently working on my skills involving that. <br> 
+I'm a backend/frontend developer, I do stuff like modding, building websites from scratch (I hate web builders), etc. -->
 
 <br>
 
