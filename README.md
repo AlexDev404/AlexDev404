@@ -27,7 +27,7 @@ Other languages that I know well include:
 - Working on Blaze
 - Creating scripts for the Mega2560 in the Arduino IDE
 - Fixing syntax errors in [Extendify](https://github.com/AlexDev404/Extendify)
-- Building SquirrelOS (Currently private) [AlexDev404/SquirrelOS](https://github.com/AlexDev404/SquirrelOS)
+- Building SquirrelOS [AlexDev404/SquirrelOS](https://github.com/AlexDev404/SquirrelOS)
 - Recreating the song Soy Yo in Sonic Pi
 - Learning [LOLCODE](https://github.com/justinmeza/lolcode-spec/blob/master/v1.2/lolcode-spec-v1.2.md)
 
