@@ -5,8 +5,6 @@ https://raw.githubusercontent.com/AlexDev404/AlexDev404/main/master.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports",NBC Sports
 https://xxbnziss6u5lk5.data.mediastore.us-east-1.amazonaws.com/live/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="************** Sport **************" tvg-logo="" group-title="Sport",************** Sport **************
-http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/129
 #EXTINF:-1 tvg-id="eurosport" tvg-name="Eurosport 1 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Eurosport_2015_logo.png" group-title="Sport",Eurosport 1 HD
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/130
 #EXTINF:-1 tvg-id="eurosport" tvg-name="Eurosport 1 (backup)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Eurosport_2015_logo.png" group-title="Sport",Eurosport 1 (backup)
