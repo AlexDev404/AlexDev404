@@ -3,7 +3,7 @@
 <!--- I'm AlexDev404 also known online as Joe, Alex, Jeff, Manny56 among others (😅). -->
 
 I usually develop websites in my spare time for fun.
-I know and am comfortable using a wide variety of programming languages; most notably **C**.
+I know a wide variety of programming languages; and especially like coding in **C**.
 I now fluently know most of **JavaScript** due to [Blaze](https://trail-blaze.github.io).
 
 Other languages that I know well include:
