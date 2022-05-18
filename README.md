@@ -39,7 +39,7 @@ I'm a backend/frontend developer, I do stuff like modding, building websites fro
 
 <br>
 
-I'm not currently looking for a job, as I don't feel like I'm ready for that yet. These projects here are simply practice for when I go into the real world and implement **`SyNBIOSis`**, a programming platform for the mind.
+I'm currently looking for a good job to do. You can find my resume [here](#). These projects here are simply practice for when I go into the real world and implement **`SyNBIOSis`**, a programming platform for the mind.
 <!--
 **AlexDev404/AlexDev404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
