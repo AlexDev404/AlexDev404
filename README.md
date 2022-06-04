@@ -3,13 +3,14 @@
 <!--- I'm AlexDev404 also known online as Joe, Alex, Jeff, Manny56 among others (😅). -->
 
 I usually develop websites in my spare time for fun.
-I know a wide variety of programming languages; and especially like coding in **C**.
+I know and am comfortable using a wide variety of programming languages; most notably **C**.
 I now fluently know most of **JavaScript** due to [Blaze](https://trail-blaze.github.io).
 
 Other languages that I know well include:
-<!-- - C-->
+
+<!-- - C -->
 - C++ 
-<!-- - JavaScript 🌐-->
+- JavaScript 🌐
 - HTML
 - CSS
 - ReactJS ⚛
@@ -23,12 +24,13 @@ Other languages that I know well include:
 [![AlexDev404's Github Stats](https://github-readme-stats.vercel.app/api?username=alexdev404&show_icons=true&theme=slateorange
 )](https://github.com/anuraghazra/github-readme-stats) 
 
-## What I'm Doing Now.. .
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexdev404&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+
+## What I'm Working On
 - Working on Blaze
 - Creating scripts for the Mega2560 in the Arduino IDE
 - Fixing syntax errors in [Extendify](https://github.com/AlexDev404/Extendify)
 - Building SquirrelOS [AlexDev404/SquirrelOS](https://github.com/AlexDev404/SquirrelOS)
-- Recreating the song Soy Yo in Sonic Pi
 - Learning [LOLCODE](https://github.com/justinmeza/lolcode-spec/blob/master/v1.2/lolcode-spec-v1.2.md)
 
 <!--
@@ -39,7 +41,7 @@ I'm a backend/frontend developer, I do stuff like modding, building websites fro
 
 <br>
 
-I'm currently looking for a good job to do. You can find my resume [here](#). These projects here are simply practice for when I go into the real world and implement **`SyNBIOSis`**, a programming platform for the mind.
+I'm not currently looking for a job, as I don't feel like I'm ready for that yet. These projects here are simply practice for when I go into the real world and implement **`SyNBIOSis`**, a programming platform for the mind.
 <!--
 **AlexDev404/AlexDev404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
