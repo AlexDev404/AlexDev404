@@ -6,9 +6,10 @@ I usually develop websites in my spare time for fun.
 I know and am comfortable using a wide variety of programming languages; most notably **C**.
 I now fluently know most of **JavaScript** due to [Blaze](https://trail-blaze.github.io).
 
+<!--
 Other languages that I know well include:
 
-<!-- - C -->
+ - C
 - C++ 
 - JavaScript 🌐
 - HTML
@@ -18,7 +19,9 @@ Other languages that I know well include:
 - Batchfile 👨‍💻
 - Arduino C
 <!-- - Blockly 🧱-->
+
 <!---
+
 ## My Stats
 
 [![AlexDev404's Github Stats](https://github-readme-stats.vercel.app/api?username=alexdev404&show_icons=true&theme=tokyonight
