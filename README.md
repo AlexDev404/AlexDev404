@@ -59,7 +59,7 @@ I'm a backend/frontend developer, I do stuff like modding, building websites fro
 
 <br>
 
-I now work at a computer repair shop. These projects here are simply practice for when I go into the real world and implement **`SyNBIOSis`**, a programming platform for the mind.
+I now am attending the University of Belize. These projects here are simply practice for when I go into the real world and implement **`SyNBIOSis`**, a programming platform for the mind.
 
   
 ![ProfileViewCount](https://komarev.com/ghpvc/?username=alexdev404&color=blue)
