@@ -22,8 +22,6 @@ Other languages that I know well include:
 
 <!---
 
-## My Stats
-
 [![AlexDev404's Github Stats](https://github-readme-stats.vercel.app/api?username=alexdev404&show_icons=true&theme=tokyonight
 )](https://github.com/anuraghazra/github-readme-stats) 
 
@@ -31,6 +29,8 @@ Other languages that I know well include:
 --->
 
 <hr/>
+
+## Activity Status
 
 <div>
   
@@ -45,7 +45,7 @@ Other languages that I know well include:
   <!---
   
 ## What I'm Working On
-- Working on Blaze
+- [Sapphire](https://github.com/AlexDev404/Sapphire)
 - Creating scripts for the Mega2560 in the Arduino IDE
 - Fixing syntax errors in [Extendify](https://github.com/AlexDev404/Extendify)
 - Building SquirrelOS [AlexDev404/SquirrelOS](https://github.com/AlexDev404/SquirrelOS)
@@ -59,7 +59,7 @@ I'm a backend/frontend developer, I do stuff like modding, building websites fro
 
 <br>
 
-I now am attending the University of Belize. These projects here are simply practice for when I go into the real world and implement **`SyNBIOSis`**, a programming platform for the mind.
+<!--- I now am attending the University of Belize. These projects here are simply practice for when I go into the real world and implement **`SyNBIOSis`**, a programming platform for the mind. --->
 
   
 ![ProfileViewCount](https://komarev.com/ghpvc/?username=alexdev404&color=blue)
