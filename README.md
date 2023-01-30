@@ -29,4 +29,5 @@ I intend to label myself a fullstack developer once I prove to myself that I am 
 <!--- I now am attending the University of Belize. These projects here are simply practice for when I go into the real world and implement **`SyNBIOSis`**, a programming platform for the mind. --->
 
 <br/>
+
 ![ProfileViewCount](https://komarev.com/ghpvc/?username=alexdev404&color=blue)
