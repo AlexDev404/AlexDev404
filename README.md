@@ -1,34 +1,8 @@
-### Hello Everyone, I'm AlexDev404
+### I make the things I need, and share them to the world.
 
-<!--- I'm AlexDev404 also known online as Joe, Alex, Jeff, Manny56 among others (😅). -->
+I like designing stuff when I'm alone and bored. Playing Zelda is my newfound passion. Throughout the years, my patience for things have improved because of programming which seems to require a lot of it. I know and am comfortable using a wide variety of programming languages and learn them whenever I need to. Learning programming languages of different paradigms has gotten pretty easy to do over the years - and picking one up has become even easier. I guess you could then call me a polyglot, which is probably who I am at this point in time.
 
-I usually develop websites in my spare time for fun.
-I know and am comfortable using a wide variety of programming languages; most notably **C**.
-I now fluently know most of **JavaScript** due to [Blaze](https://trail-blaze.github.io).
-
-<!--
-Other languages that I know well include:
-
- - C
-- C++ 
-- JavaScript 🌐
-- HTML
-- CSS
-- ReactJS ⚛
-- Python 🐍
-- Batchfile 👨‍💻
-- Arduino C
-<!-- - Blockly 🧱-->
-
-<!---
-
-[![AlexDev404's Github Stats](https://github-readme-stats.vercel.app/api?username=alexdev404&show_icons=true&theme=tokyonight
-)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexdev404&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
---->
-
-<hr/>
+I now fluently know most of **JavaScript** due to [Blaze](https://trail-blaze.github.io). It's one of my past projects which I intend to revive a couple years from now.
 
 ## Activity Status
 
@@ -41,39 +15,18 @@ Other languages that I know well include:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdev404&layout=compact&langs_count=7&theme=tokyonight"/>
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=alexdev404&theme=github-dark-blue&hide_border=true&fire=DD2727"/>
 </div>
-  
-  <!---
-  
-## What I'm Working On
-- [Sapphire](https://github.com/AlexDev404/Sapphire)
-- Creating scripts for the Mega2560 in the Arduino IDE
-- Fixing syntax errors in [Extendify](https://github.com/AlexDev404/Extendify)
-- Building SquirrelOS [AlexDev404/SquirrelOS](https://github.com/AlexDev404/SquirrelOS)
-- Learning [LOLCODE](https://github.com/justinmeza/lolcode-spec/blob/master/v1.2/lolcode-spec-v1.2.md)
---->
-<!--
-I mostly enjoy working in C and web languages like HTML5 and CSS; although other languages are just as fine. <br>
-I'm a fast learner and can learn pretty much anything if I try. <br>
-I like hacking stuff and am currently working on my skills involving that. <br> 
-I'm a backend/frontend developer, I do stuff like modding, building websites from scratch (I hate web builders), etc. -->
 
-<br>
+I mostly enjoy working in Rust and web languages like TypeScript; although other languages are just as fine.
+I'm a fast learner and can learn pretty much anything if I try.
+I like hacking stuff when I find that they need improvement.
+I'm a frontend developer for now, but don't really consider myself a backend developer simply because I know a couple databasing software.
+I do know how to make a basic REST API but that doesn't count
+
+I intend to label myself a fullstack developer once I prove to myself that I am ready for real world applications.
+
+
 
 <!--- I now am attending the University of Belize. These projects here are simply practice for when I go into the real world and implement **`SyNBIOSis`**, a programming platform for the mind. --->
 
-  
+<br/>
 ![ProfileViewCount](https://komarev.com/ghpvc/?username=alexdev404&color=blue)
-<!--
-**AlexDev404/AlexDev404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
