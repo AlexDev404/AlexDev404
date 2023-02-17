@@ -1,4 +1,7 @@
 ### I make the things I need, and share them to the world.
+![ProfileViewCount](https://komarev.com/ghpvc/?username=alexdev404&color=blue)
+[![wakatime](https://wakatime.com/badge/user/0ecfc0e5-4b98-47ba-b89d-74251ddb4194.svg)](https://wakatime.com/@0ecfc0e5-4b98-47ba-b89d-74251ddb4194)
+
 
 I like designing stuff when I'm alone and bored. Playing Zelda is my newfound passion. Throughout the years, my patience for things have improved because of programming which seems to require a lot of it. I know and am comfortable using a wide variety of programming languages and learn them whenever I need to. Learning programming languages of different paradigms has gotten pretty easy to do over the years — and picking one up has become even easier. I guess you could then call me a polyglot, which is probably who I am at this point in time.
 
@@ -29,5 +32,3 @@ I intend to label myself a fullstack developer once I prove to myself that I am 
 <!--- I now am attending the University of Belize. These projects here are simply practice for when I go into the real world and implement **`SyNBIOSis`**, a programming platform for the mind. --->
 
 <br/>
-
-![ProfileViewCount](https://komarev.com/ghpvc/?username=alexdev404&color=blue)
