@@ -9,14 +9,16 @@ I now fluently know most of **JavaScript** due to [Blaze](https://trail-blaze.gi
 
 ## Activity Status
 
-<div>
+<div style="display: flex">
   
 [    ![Metrics](https://metrics.lecoq.io/AlexDev404?template=classic&activity=1&lines=1&notable=1&base.indepth=false&base.hireable=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=America%2FGuatemala)](https://metrics.lecoq.io/)
+
+[![AlexDev404's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexdev404&layout=compact&theme=discord_old_blurple)](https://wakatime.com/@alexdev404)
     <hr />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexdev404&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdev404&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=alexdev404&theme=github-dark-blue&hide_border=true&fire=DD2727"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexdev404&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdev404&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=alexdev404&theme=discord_old_blurple&hide_border=true&fire=DD2727"/>
 </div>
 
 I mostly enjoy working in Rust and web languages like TypeScript; although other languages are just as fine.
