@@ -56,87 +56,8 @@ http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.pluto.tv/wp-content/uploads/2016/05/Pluto_logo-white_675x675.png" group-title="USA",Pluto TV Headlines
 http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="USA",Bloomberg TV
 https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/fefd03e8-6801-45ca-8c70-dddf79b46b1f:TUL/master.m3u8
-#EXTINF:-1,Bloomberg
-http://live.bltvios.com.edgesuite.net/oza2w6q8gX9WSkRx13bskffWIuyf/BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I/master.m3u8?geo_country=US
-#EXTINF:-1,Bloomberg US
-http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8
-#EXTINF:-1,Bloomberg ASIA
-http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M18K.m3u8
-#EXTINF:-1,Bloomberg UK
-http://btvuk-i.akamaihd.net/hls/live/203321/btvuk_ios/P1/M18K.m3u8
 
-#EXTINF:-1,Smile of a Child
-http://84.22.46.188/play/a00s
-
-#EXTINF:-1,ANIMAL PLANET
-http://80.80.160.168/live/1/live.m3u8
-#EXTINF:-1,TLC
-http://80.80.160.168/live/2/live.m3u8
-#EXTINF:-1,TRAVEL
-http://80.80.160.168/live/3/live.m3u8
-#EXTINF:-1,PLANET GREEN
-http://80.80.160.168/live/4/live.m3u8
-#EXTINF:-1,ID
-http://80.80.160.168/live/5/live.m3u8
-#EXTINF:-1,ESPN HD
-http://80.80.160.168/live/6/live.m3u8
-#EXTINF:-1,SHOWTIME  HD
-http://80.80.160.168/live/7/live.m3u8
-#EXTINF:-1,?
-http://80.80.160.168/live/8/live.m3u8
-#EXTINF:-1,SCI HD
-http://80.80.160.168/live/9/live.m3u8
-
-#EXTINF:-1,HBO-HD
-http://163.172.214.251:8000/play/HBO-HD
-#EXTINF:-1,US-BRAVO-HD
-http://163.172.214.251:8000/play/US-BRAVO-HD
-#EXTINF:-1,AMCHD
-http://163.172.214.251:8000/play/AMCHD
-#EXTINF:-1,CBS-HD
-http://163.172.214.251:8000/play/CBS-HD
-
-#EXTINF:-1,EuroNews
-http://84.22.46.188/play/a015
-#EXTINF:-1,Al Jazeera English
-http://84.22.46.188/play/a011
-#EXTINF:-1,Al Jazeera English HD
-http://84.22.46.188/play/a010
-
-#EXTINF:-1,BFMTV
-http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
-#EXTINF:-1,KTO
-http://mobile.ktotv.com/live/KTO_Layer1.m3u8
-#EXTINF:-1,WEO
-http://str81.creacast.com/weo/high/playlist.m3u8
-#EXTINF:-1,Alsace 20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1,RTC
-http://media.rtc.be/vod/mp4:166597.mp4/playlist.m3u8
-#EXTINF:-1,RTC
-http://media.webtvlive.eu/rtc/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Notele
-http://streaming06.axeweb.be:1935/live/direct.stream/playlist.m3u8
-#EXTINF:-1,Il TV
-http://str81.creacast.com:80/iltv/high/playlist.m3u8
-#EXTINF:-1,EuroSport
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
-#EXTINF:-1,Oui FM
-http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
-#EXTINF:-1,La Tele
-http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8
-#EXTINF:-1,LCN
-http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1,Rouge TV
-http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
-#EXTINF:-1,Mens Up TV
-http://videos.mensup.fr/mensuptv/live/01.m3u8
-#EXTINF:-1,Chasse&Peche
-http://195.78.244.206:9898/udp/224.11.2.71:1234
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="USA",Red Bull TV
-http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="USA",Bloomberg TV
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
