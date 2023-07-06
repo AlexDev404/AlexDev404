@@ -8,100 +8,31 @@ https://raw.githubusercontent.com/AlexDev404/AlexDev404/main/abc.m3u8
 #EXTINF:-1 group-title="Sports",NBC Sports
 https://xxbnziss6u5lk5.data.mediastore.us-east-1.amazonaws.com/live/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="---- USA CHANNELS ----" tvg-logo="" group-title="USA CHANNELS",---- USA CHANNELS ----
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14486.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] ABS-CBN News Channel" tvg-logo="" group-title="USA CHANNELS",[USA] ABS-CBN News Channel
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14438.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] Fox Sports 506 HD" tvg-logo="" group-title="USA CHANNELS",[USA] Fox Sports 506 HD
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14439.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] NBA TV" tvg-logo="" group-title="USA CHANNELS",[USA] NBA TV
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14440.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] NFL Network" tvg-logo="" group-title="USA CHANNELS",[USA] NFL Network
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14441.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] 5USA" tvg-logo="" group-title="USA CHANNELS",[USA] 5USA
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14442.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] AFN-SPORTS-2" tvg-logo="" group-title="USA CHANNELS",[USA] AFN-SPORTS-2
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14443.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] BET" tvg-logo="" group-title="USA CHANNELS",[USA] BET
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14444.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] BOSTON-CITY" tvg-logo="" group-title="USA CHANNELS",[USA] BOSTON-CITY
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14445.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] BYU-Sports_HD" tvg-logo="" group-title="USA CHANNELS",[USA] BYU-Sports_HD
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14446.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] CBS HD" tvg-logo="" group-title="USA CHANNELS",[USA] CBS HD
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14447.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] CBS-DRAMA" tvg-logo="" group-title="USA CHANNELS",[USA] CBS-DRAMA
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14448.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] CBS-NEWS" tvg-logo="" group-title="USA CHANNELS",[USA] CBS-NEWS
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14449.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] CNN" tvg-logo="" group-title="USA CHANNELS",[USA] CNN
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14450.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] Discovery-Science_HD" tvg-logo="" group-title="USA CHANNELS",[USA] Discovery-Science_HD
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14451.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] E4-HD" tvg-logo="" group-title="USA CHANNELS",[USA] E4-HD
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14452.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] ESPN HD" tvg-logo="" group-title="USA CHANNELS",[USA] ESPN HD
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14453.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] Fashion-One" tvg-logo="" group-title="USA CHANNELS",[USA] Fashion-One
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14454.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] FIGHT-NETWORK" tvg-logo="" group-title="USA CHANNELS",[USA] FIGHT-NETWORK
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14455.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] FIGHT-SPORT" tvg-logo="" group-title="USA CHANNELS",[USA] FIGHT-SPORT
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14456.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] Food-Network" tvg-logo="" group-title="USA CHANNELS",[USA] Food-Network
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14457.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] FOX-HD" tvg-logo="" group-title="USA CHANNELS",[USA] FOX-HD
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14458.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] FOX-NEWS" tvg-logo="" group-title="USA CHANNELS",[USA] FOX-NEWS
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14459.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] H2" tvg-logo="" group-title="USA CHANNELS",[USA] H2
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14460.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] HALLMARK" tvg-logo="" group-title="USA CHANNELS",[USA] HALLMARK
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14461.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] HBO" tvg-logo="" group-title="USA CHANNELS",[USA] HBO
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14462.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] HBO-COMEDY" tvg-logo="" group-title="USA CHANNELS",[USA] HBO-COMEDY
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14463.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] HBO-SIGNATURE" tvg-logo="" group-title="USA CHANNELS",[USA] HBO-SIGNATURE
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14464.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] HBO-ZONE" tvg-logo="" group-title="USA CHANNELS",[USA] HBO-ZONE
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14465.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] HSN-1" tvg-logo="" group-title="USA CHANNELS",[USA] HSN-1
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14466.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] HSN-2" tvg-logo="" group-title="USA CHANNELS",[USA] HSN-2
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14467.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] MelloTV" tvg-logo="" group-title="USA CHANNELS",[USA] MelloTV
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14468.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] Nasa-TVHD" tvg-logo="" group-title="USA CHANNELS",[USA] Nasa-TVHD
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14469.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] PAC12_1_HD" tvg-logo="" group-title="USA CHANNELS",[USA] PAC12_1_HD
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14470.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] PAG-HD" tvg-logo="" group-title="USA CHANNELS",[USA] PAG-HD
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14471.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] Pocker-Central" tvg-logo="" group-title="USA CHANNELS",[USA] Pocker-Central
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14472.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] RT-America_HD" tvg-logo="" group-title="USA CHANNELS",[USA] RT-America_HD
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14473.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] showtime" tvg-logo="" group-title="USA CHANNELS",[USA] showtime
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14474.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] Sports-Net" tvg-logo="" group-title="USA CHANNELS",[USA] Sports-Net
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14475.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] The-Florida-Channel" tvg-logo="" group-title="USA CHANNELS",[USA] The-Florida-Channel
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14476.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] Travel-Channe_HD" tvg-logo="" group-title="USA CHANNELS",[USA] Travel-Channe_HD
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14477.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] TSN-2HD" tvg-logo="" group-title="USA CHANNELS",[USA] TSN-2HD
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14478.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] TSN-3HD" tvg-logo="" group-title="USA CHANNELS",[USA] TSN-3HD
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14479.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] TSN-4HD" tvg-logo="" group-title="USA CHANNELS",[USA] TSN-4HD
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14480.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] TSN-5HD" tvg-logo="" group-title="USA CHANNELS",[USA] TSN-5HD
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14481.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] UC-TV" tvg-logo="" group-title="USA CHANNELS",[USA] UC-TV
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14482.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] USA-Network" tvg-logo="" group-title="USA CHANNELS",[USA] USA-Network
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14483.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] Versus-NBA_HD" tvg-logo="" group-title="USA CHANNELS",[USA] Versus-NBA_HD
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14484.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] WWE-US" tvg-logo="" group-title="USA CHANNELS",[USA] WWE-US
-http://iptv.iptvthebest.net:15000/live/eitwlfss/789whk6vXL/14485.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14060.jpg" group-title="24/7",Adult Swim Animation
+https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14061.jpg" group-title="24/7",Adult Swim Live Action
+https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://when-will.net/images/artikel/2015/september/Black-Jesus.jpg" group-title="24/7",Black Jesus
+http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="24/7",Christmas Fireplace
+http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/n1AJtRokP_w/maxresdefault.jpg" group-title="24/7",Fish Tank
+http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/SgoRKIpGIs0/maxresdefault.jpg" group-title="24/7",Mr. Pickles
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4974.jpg" group-title="24/7",Off The Air
+http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" group-title="24/7",Rick and Morty
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/d6/8c/dd/d68cdd473f7a56f574b7514e24fbc1ce.jpg" group-title="24/7",Squidbillies
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Steven_Universe_logo.svg/1200px-Steven_Universe_logo.svg.png" group-title="24/7",Steven Universe
+https://live.ponies.fr/hls/sug-hd/sug.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png" group-title="24/7",The Eric Andre Show
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4835.jpg" group-title="24/7",The Venture Bros.
+http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4874.png" group-title="24/7",Tim and Eric
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png" group-title="24/7",Williams Stream
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
