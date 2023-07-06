@@ -112,6 +112,37 @@ http://84.22.46.188/play/a011
 #EXTINF:-1,Al Jazeera English HD
 http://84.22.46.188/play/a010
 
+#EXTINF:-1,BFMTV
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
+#EXTINF:-1,KTO
+http://mobile.ktotv.com/live/KTO_Layer1.m3u8
+#EXTINF:-1,WEO
+http://str81.creacast.com/weo/high/playlist.m3u8
+#EXTINF:-1,Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1,RTC
+http://media.rtc.be/vod/mp4:166597.mp4/playlist.m3u8
+#EXTINF:-1,RTC
+http://media.webtvlive.eu/rtc/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Notele
+http://streaming06.axeweb.be:1935/live/direct.stream/playlist.m3u8
+#EXTINF:-1,Il TV
+http://str81.creacast.com:80/iltv/high/playlist.m3u8
+#EXTINF:-1,EuroSport
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+#EXTINF:-1,Oui FM
+http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
+#EXTINF:-1,La Tele
+http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8
+#EXTINF:-1,LCN
+http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1,Rouge TV
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
+#EXTINF:-1,Mens Up TV
+http://videos.mensup.fr/mensuptv/live/01.m3u8
+#EXTINF:-1,Chasse&Peche
+http://195.78.244.206:9898/udp/224.11.2.71:1234
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="USA",Red Bull TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 
