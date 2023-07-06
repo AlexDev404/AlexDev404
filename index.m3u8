@@ -15,6 +15,8 @@ https://raw.githubusercontent.com/AlexDev404/AlexDev404/main/b1g.m3u8
 https://raw.githubusercontent.com/AlexDev404/AlexDev404/main/fs2.m3u8
 #EXTINF:-1 group-title="Sports",FOX Deportes
 https://raw.githubusercontent.com/AlexDev404/AlexDev404/main/deportes.m3u8
+#EXTINF:-1 group-title="Sports",FOX Soccer Plus
+https://raw.githubusercontent.com/AlexDev404/AlexDev404/main/fsp.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="---- USA CHANNELS ----" tvg-logo="" group-title="USA CHANNELS",---- USA CHANNELS ----
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14060.jpg" group-title="24/7",Adult Swim Animation
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
