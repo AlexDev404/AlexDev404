@@ -7,6 +7,10 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://raw.githubusercontent.com/AlexDev404/AlexDev404/main/abc.m3u8
 #EXTINF:-1 group-title="Sports",NBC Sports
 https://xxbnziss6u5lk5.data.mediastore.us-east-1.amazonaws.com/live/master.m3u8
+#EXTINF:-1 group-title="Sports",FOX Sports 1
+https://raw.githubusercontent.com/AlexDev404/AlexDev404/main/fs1.m3u8
+#EXTINF:-1 group-title="Sports",FOX Sports 2
+https://raw.githubusercontent.com/AlexDev404/AlexDev404/main/fs2.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="---- USA CHANNELS ----" tvg-logo="" group-title="USA CHANNELS",---- USA CHANNELS ----
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14060.jpg" group-title="24/7",Adult Swim Animation
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
