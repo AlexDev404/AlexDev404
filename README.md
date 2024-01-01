@@ -5,7 +5,7 @@
 
 I like designing stuff when I'm alone and bored. Playing Zelda is my newfound passion. Throughout the years, my patience for things have improved because of programming which seems to require a lot of it. I know and am comfortable using a wide variety of programming languages and learn them whenever I need to. Learning programming languages of different paradigms has gotten pretty easy to do over the years — and picking one up has become even easier. I guess you could then call me a polyglot, which is probably who I am at this point in time.
 
-I now fluently know most of **JavaScript** due to [Blaze](https://trail-blaze.github.io). It's one of my past projects which I intend to revive a couple years from now.
+I now fluently know most of **JavaScript** due to Blaze. It's one of my past projects which I intend to revive a couple years from now.
 
 ## Activity Status
 
