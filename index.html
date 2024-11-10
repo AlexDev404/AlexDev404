@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <meta content="Code.org" property="og:site_name" />
+    <meta content="500177453358606" property="fb:app_id" />
+    <meta content="article" property="og:type" />
+    <meta
+      content="https://www.facebook.com/Code.org"
+      property="article:publisher"
+    />
+    <meta content="https://hourofcode.com/map" property="og:url" />
+    <meta
+      content="https://code.org/images/default-og-image.png"
+      property="og:image"
+    />
+    <meta content="1220" property="og:image:width" />
+    <meta content="640" property="og:image:height" />
+    <meta
+      content="https://code.org/images/default-og-image.png"
+      property="twitter:image:src"
+    />
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <title>Hour of Code map</title>
+    <link
+      href="https://hourofcode.com/images/icons/favicon.ico"
+      rel="shortcut icon"
+    />
+    <link
+      href="https://hourofcode.com/images/icons/apple-touch-icon-57x57.png"
+      rel="apple-touch-icon"
+      sizes="57x57"
+    />
+    <link
+      href="https://hourofcode.com/images/icons/apple-touch-icon-114x114.png"
+      rel="apple-touch-icon"
+      sizes="114x114"
+    />
+    <link
+      href="https://hourofcode.com/images/icons/apple-touch-icon-72x72.png"
+      rel="apple-touch-icon"
+      sizes="72x72"
+    />
+    <link
+      href="https://hourofcode.com/images/icons/apple-touch-icon-144x144.png"
+      rel="apple-touch-icon"
+      sizes="144x144"
+    />
+    <link
+      href="https://hourofcode.com/images/icons/apple-touch-icon-60x60.png"
+      rel="apple-touch-icon"
+      sizes="60x60"
+    />
+    <link
+      href="https://hourofcode.com/images/icons/apple-touch-icon-120x120.png"
+      rel="apple-touch-icon"
+      sizes="120x120"
+    />
+    <link
+      href="https://hourofcode.com/images/icons/apple-touch-icon-76x76.png"
+      rel="apple-touch-icon"
+      sizes="76x76"
+    />
+    <link
+      href="https://hourofcode.com/images/icons/apple-touch-icon-152x152.png"
+      rel="apple-touch-icon"
+      sizes="152x152"
+    />
+    <link
+      href="https://hourofcode.com/images/icons/apple-touch-icon-180x180.png"
+      rel="apple-touch-icon"
+      sizes="180x180"
+    />
+    <link
+      href="https://hourofcode.com/images/icons/favicon-192x192.png"
+      rel="icon"
+      sizes="192x192"
+      type="image/png"
+    />
+    <link
+      href="https://hourofcode.com/images/icons/favicon-160x160.png"
+      rel="icon"
+      sizes="160x160"
+      type="image/png"
+    />
+    <link
+      href="https://hourofcode.com/images/icons/favicon-96x96.png"
+      rel="icon"
+      sizes="96x96"
+      type="image/png"
+    />
+    <link
+      href="https://hourofcode.com/images/icons/favicon-16x16.png"
+      rel="icon"
+      sizes="16x16"
+      type="image/png"
+    />
+    <link
+      href="https://hourofcode.com/images/icons/favicon-32x32.png"
+      rel="icon"
+      sizes="32x32"
+      type="image/png"
+    />
+    <meta content="#ffc40d" name="msapplication-TileColor" />
+    <meta
+      content="https://hourofcode.com/images/icons/mstile-144x144.png"
+      name="msapplication-TileImage"
+    />
+    <meta
+      content="https://hourofcode.com/images/icons/browserconfig.xml"
+      name="msapplication-config"
+    />
+    <!--[if lt IE 9]>
+      <script src="/js/html5shiv.js"></script>
+      <script src="/js/es5-shim.min.js"></script>
+    <![endif]-->
+    <script>
+      var is_ie8 = false;
+    </script>
+    <!--[if IE 8]>
+      <script>
+        is_ie8 = true;
+      </script>
+    <![endif]-->
+    <link
+      href="https://hourofcode.com/style.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="https://hourofcode.com/css/selectize.bootstrap3.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+
+    <link
+      href="https://hourofcode.com/css/common.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="https://hourofcode.com/shared/css/warning-banner.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <!--[if lt IE 9]>
+      <script src="/js/respond.min.js"></script>
+    <![endif]-->
+    <meta content="IE=8" http-equiv="X-UA-Compatible" />
+
+    <script src="https://hourofcode.com/js/jquery.min.js"></script>
+    <script
+      src="https://hourofcode.com/js/sifter.min.js"
+      type="text/javascript"
+    ></script>
+    <script
+      src="https://hourofcode.com/js/microplugin.min.js"
+      type="text/javascript"
+    ></script>
+    <script
+      src="https://hourofcode.com/js/selectize.min.js"
+      type="text/javascript"
+    ></script>
+    <script src="https://hourofcode.com/assets/js/webpack-runtimewp7779c90b66960ba02581.min.js"></script>
+    <script src="https://hourofcode.com/assets/js/vendorswp3a2cc17b03b557a1aa2f.min.js"></script>
+    <script src="https://hourofcode.com/assets/js/hourofcode.com/views/theme_common_head_afterwp21c5bff5e9c2da7b2ae8.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://api.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.js"></script>
+    <script>
+      mapboxgl.accessToken =
+        "pk.eyJ1IjoiY29kZW9yZyIsImEiOiJjanlnOWZqejIwMHVvM2xxcGMyY25wMzYzIn0.WyPOM-uIk6djBffSPg9gNA";
+    </script>
+    <script
+      src="https://hourofcode.com/js/jquery.geocomplete.min.js"
+      type="text/javascript"
+    >
+
+      <div id='hoc-header-branding'>
+      <a href='/us/'>
+      <img alt='Hour of Code' src='https://hourofcode.com/us/en/images/hour-of-code-logo.png'/>
+      </a>
+      </div>
+    </script>
+    <link
+      href="https://hourofcode.com/css/map.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <script
+      defer=""
+      src="./hoc_events_mapwpd66dd2e932654c0e9413.min.js"
+    ></script>
+  </head>
+  <body>
+    <main class="m-6">
+        <div class="my-8">
+            <div class="legend-title text-2xl font-semibold">Hour of Code Map</div>
+            <div class="legend-title text-lg font-light">Scroll down for legend</div>
+            <div class="legend-title text-xs mb-2 font-light">Click inside map to interact</div>
+            
+          </div>
+    <div
+      id="mapbox-map"
+      class="mapboxgl-map"
+      style="height: 100vh; width: 100%"
+    >
+      <div class="mapboxgl-canary" style="visibility: hidden"></div>
+      <div
+        class="mapboxgl-canvas-container mapboxgl-interactive mapboxgl-touch-zoom-rotate"
+      >
+        <canvas
+          class="mapboxgl-canvas"
+          tabindex="0"
+          aria-label="Map"
+          style="position: absolute; width: 1263px; height: 710px"
+          width="1263"
+          height="710"
+        ></canvas>
+      </div>
+      <div class="mapboxgl-control-container">
+        <div class="mapboxgl-ctrl-top-left"></div>
+        <div class="mapboxgl-ctrl-top-right"></div>
+        <div class="mapboxgl-ctrl-bottom-left">
+          <div class="mapboxgl-ctrl" style="display: block">
+            <a
+              class="mapboxgl-ctrl-logo"
+              target="_blank"
+              rel="noopener"
+              href="https://www.mapbox.com/"
+              aria-label="Mapbox logo"
+            ></a>
+          </div>
+        </div>
+        <div class="mapboxgl-ctrl-bottom-right">
+          <div class="mapboxgl-ctrl mapboxgl-ctrl-attrib">
+            <div class="mapboxgl-ctrl-attrib-inner">
+              <a
+                href="https://www.mapbox.com/about/maps/"
+                target="_blank"
+                title="Mapbox"
+                aria-label="Mapbox"
+                role="listitem"
+                >© Mapbox</a
+              >
+              <a
+                href="https://www.openstreetmap.org/about/"
+                target="_blank"
+                title="OpenStreetMap"
+                aria-label="OpenStreetMap"
+                role="listitem"
+                >© OpenStreetMap</a
+              >
+              <a
+                class="mapbox-improve-map"
+                href="https://apps.mapbox.com/feedback/?owner=codeorg&amp;id=cjz36duae88ds1cp7ll7smx6s&amp;access_token=pk.eyJ1IjoiY29kZW9yZyIsImEiOiJjanlnOWZqejIwMHVvM2xxcGMyY25wMzYzIn0.WyPOM-uIk6djBffSPg9gNA"
+                target="_blank"
+                title="Improve this map"
+                aria-label="Improve this map"
+                role="listitem"
+                rel="noopener"
+                >Improve this map</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mapboxgl-canary" style="visibility: hidden"></div>
+      <div
+        class="mapboxgl-canvas-container mapboxgl-interactive mapboxgl-touch-zoom-rotate"
+      >
+        <canvas
+          class="mapboxgl-canvas"
+          tabindex="0"
+          aria-label="Map"
+          style="position: absolute; width: 1903px; height: 300px"
+          width="1903"
+          height="300"
+        ></canvas>
+      </div>
+      <div class="mapboxgl-control-container">
+        <div class="mapboxgl-ctrl-top-left"></div>
+        <div class="mapboxgl-ctrl-top-right">
+          <div class="mapboxgl-ctrl mapboxgl-ctrl-group">
+            <button
+              class="mapboxgl-ctrl-icon mapboxgl-ctrl-fullscreen"
+              type="button"
+              aria-label="Enter fullscreen"
+              title="Enter fullscreen"
+            ></button>
+          </div>
+        </div>
+        <div class="mapboxgl-ctrl-bottom-left">
+          <div class="mapboxgl-ctrl" style="display: block">
+            <a
+              class="mapboxgl-ctrl-logo"
+              target="_blank"
+              rel="noopener"
+              href="https://www.mapbox.com/"
+              aria-label="Mapbox logo"
+            ></a>
+          </div>
+        </div>
+        <div class="mapboxgl-ctrl-bottom-right">
+          <div class="mapboxgl-ctrl mapboxgl-ctrl-group">
+            <button
+              class="mapboxgl-ctrl-icon mapboxgl-ctrl-zoom-in"
+              type="button"
+              title="Zoom in"
+              aria-label="Zoom in"
+            ></button
+            ><button
+              class="mapboxgl-ctrl-icon mapboxgl-ctrl-zoom-out mapboxgl-ctrl-icon-disabled"
+              type="button"
+              title="Zoom out"
+              aria-label="Zoom out"
+            ></button>
+          </div>
+          <div class="mapboxgl-ctrl mapboxgl-ctrl-attrib">
+            <div class="mapboxgl-ctrl-attrib-inner">
+              <a
+                href="https://www.mapbox.com/about/maps/"
+                target="_blank"
+                title="Mapbox"
+                aria-label="Mapbox"
+                >© Mapbox</a
+              >
+              <a
+                href="https://www.openstreetmap.org/about/"
+                target="_blank"
+                title="OpenStreetMap"
+                aria-label="OpenStreetMap"
+                >© OpenStreetMap</a
+              >
+              <a
+                class="mapbox-improve-map"
+                href="https://apps.mapbox.com/feedback/?owner=codeorg&amp;id=cjz36duae88ds1cp7ll7smx6s&amp;access_token=pk.eyJ1IjoiY29kZW9yZyIsImEiOiJjanlnOWZqejIwMHVvM2xxcGMyY25wMzYzIn0.WyPOM-uIk6djBffSPg9gNA"
+                target="_blank"
+                title="Improve this map"
+                aria-label="Improve this map"
+                rel="noopener"
+                >Improve this map</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="my-8">
+      <div class="legend-title text-2xl mb-2 font-semibold">Legend</div>
+      <div class="color orange"></div>
+      <div>
+        Hour of Code Event:
+        <span class="text-yellow-600 font-bold">YELLOW</span>
+      </div>
+      <div>Special Event: <span class="text-red-800 font-bold">RED</span></div>
+    </div>
+
+    <div class="footnote">
+      A full list of the events can be viewed on the
+      <a href="https://hourofcode.com/us/events">events page.</a>
+    </div>
+
+    </main>
+
+    <footer id="pagefooter">
+      <div id="footer-links">
+        <ul class="hide-responsive-footer-menu">
+          <li>
+            <a
+              href="http://support.code.org/hc/en-us/requests/new"
+              target="_blank"
+              >Contact us</a
+            >
+          </li>
+          <li>
+            <a href="http://support.code.org/" target="_blank">Support</a>
+          </li>
+          <li>
+            <a href="https://hourofcode.com/us/partners" target="_blank"
+              >Partners and Advisors</a
+            >
+          </li>
+          <li>
+            <a href="https://code.org/tos" target="_blank">Terms</a>
+          </li>
+          <li>
+            <a href="https://code.org/privacy" target="_blank"
+              >Privacy Policy</a
+            >
+          </li>
+        </ul>
+        <div id="footer-toggle">
+          <a href="#">
+            Code.org
+            <i class="fa fa-chevron-up"></i>
+          </a>
+        </div>
+      </div>
+      <div id="copyright">
+        Copyright 2022 Code.org. All rights reserved.
+        <br />
+        Hour of Code™ and Hora del Código® are trademarks of Code.org.
+        <br />
+        Built on GitHub from Microsoft
+      </div>
+      <div id="powered-by-aws">
+        <a href="https://aws.amazon.com/what-is-cloud-computing">
+          <img
+            alt="Powered by AWS Cloud Computing"
+            src="https://hourofcode.com/shared/images/Powered-By_logo-horiz_RGB_REV.png"
+            style="width: 190px"
+          />
+        </a>
+      </div>
+    </footer>
+  </body>
+</html>
