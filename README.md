@@ -21,7 +21,7 @@ I now fluently know most of **JavaScript** due to [Blaze](https://trail-blaze.gi
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=alexdev404&theme=discord_old_blurple&hide_border=true&fire=DD2727"/>
 </div>
 
-I mostly enjoy working in Rust and web languages like TypeScript; although other languages are just as fine.
+I mostly enjoy working in ~~Rust~~ C/C++ and web languages like TypeScript; although other languages are just as fine.
 I'm a fast learner and can learn pretty much anything if I try.
 I like hacking stuff when I find that they need improvement.
 I'm a frontend developer for now, but don't really consider myself a backend developer simply because I know a couple databasing software.
