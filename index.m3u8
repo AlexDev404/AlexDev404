@@ -3,6 +3,8 @@
 https://raw.githubusercontent.com/AlexDev404/AlexDev404/main/master.m3u8
 #EXTINF:-1 tvg-name="LiveNOW from FOX" tvg-logo="https://i.imgur.com/1JnyzHv.png" tvg-id="LiveNOWFromFOX.us" group-title="News and Opinion",LiveNOW from FOX
 https://raw.githubusercontent.com/AlexDev404/AlexDev404/main/fox.m3u8
+#EXTINF:-1 group-title="News and Opinion",CBS News
+https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
 #EXTINF:-1 group-title="News and Opinion",CBS News 24/7
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="---- USA CHANNELS ----" tvg-logo="" group-title="USA CHANNELS",---- USA CHANNELS ----
