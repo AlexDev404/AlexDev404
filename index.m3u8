@@ -1,22 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="News and Opinion",CNN Go
 https://raw.githubusercontent.com/AlexDev404/AlexDev404/main/master.m3u8
-#EXTINF:-1 group-title="News and Opinion",FOX News TV
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="News and Opinion",ABC News USA
-https://raw.githubusercontent.com/AlexDev404/AlexDev404/main/abc.m3u8
-#EXTINF:-1 group-title="Sports",NBC Sports
-https://xxbnziss6u5lk5.data.mediastore.us-east-1.amazonaws.com/live/master.m3u8
-#EXTINF:-1 group-title="Sports",FOX Sports 1
-https://raw.githubusercontent.com/AlexDev404/AlexDev404/main/fs1.m3u8
-#EXTINF:-1 group-title="Sports",FOX Sports B1G Network
-https://raw.githubusercontent.com/AlexDev404/AlexDev404/main/b1g.m3u8
-#EXTINF:-1 group-title="Sports",FOX Sports 2
-https://raw.githubusercontent.com/AlexDev404/AlexDev404/main/fs2.m3u8
-#EXTINF:-1 group-title="Sports",FOX Deportes
-https://raw.githubusercontent.com/AlexDev404/AlexDev404/main/deportes.m3u8
-#EXTINF:-1 group-title="Sports",FOX Soccer Plus
-https://raw.githubusercontent.com/AlexDev404/AlexDev404/main/fsp.m3u8
+#EXTINF:-1 tvg-name="LiveNOW from FOX" tvg-logo="https://i.imgur.com/1JnyzHv.png" tvg-id="LiveNOWFromFOX.us" group-title="News",LiveNOW from FOX
+https://raw.githubusercontent.com/AlexDev404/AlexDev404/main/fox.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="---- USA CHANNELS ----" tvg-logo="" group-title="USA CHANNELS",---- USA CHANNELS ----
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14060.jpg" group-title="24/7",Adult Swim Animation
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
@@ -54,11 +40,6 @@ http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.destinationnetwork.com/images/channel_logos/notv_logo.png" group-title="USA",New Orleans TV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.pluto.tv/wp-content/uploads/2016/05/Pluto_logo-white_675x675.png" group-title="USA",Pluto TV Headlines
-http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="USA",Bloomberg TV
-https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/fefd03e8-6801-45ca-8c70-dddf79b46b1f:TUL/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="USA",Load More (#1)
 https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
 
